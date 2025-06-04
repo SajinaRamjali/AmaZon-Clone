@@ -1,10 +1,11 @@
 const products = [
     { id: 1, name: "Wireless Headphone", price: 2000, image: "images/headphone.jpg" },
     { id: 2, name: "iPhone 15 Pro Max", price: 250000, image: "images/phone.jpg" },
-    { id: 3, name: "Speaker", price: 1000, image: "images/speaker.jpg" },
+    { id: 3, name: "Speaker", price: 6000, image: "images/speaker.jpg" },
     { id: 4, name: "Macbook Pro M4", price: 349000, image: "images/laptop.jpg" },
     { id: 5, name: "Handmade Tulip Bouque", price: 3000, image: "images/Tulip.jpg" },
     { id: 6, name: "Blue Rose Bouque", price: 3000, image: "images/bluerose.jpg" },
+    { id: 7, name: "Speaker", price: 1000, image: "images/speaker1.jpg" },
 
 
 
